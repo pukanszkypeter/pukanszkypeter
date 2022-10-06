@@ -1,19 +1,12 @@
 ### Hi! 👋
 
-My name is Peter and I am currently working at Accenture Industry X, while completing my ELTE-IK (MSc) studies in computer science.
+My name is Peter and I am currently working at [Accenture Industry X](https://accenture.com/hu-en/about/industry-x-index) as a full-stack developer, while completing my [ELTE-IK (MSc)](https://www.inf.elte.hu/) studies in computer science.
 
-<!--
-**pukanszkypeter/pukanszkypeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Facts
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
+- 🔧 I’m currently working on my MSc thesis, which is about the dispersion of fault-tolerant robots.
+- ✨ I’m currently learning front-end technologies like [React](https://reactjs.org/).
+- ♻ Intrested in technologies that can change how we live our lives.
+- 🔥 Current hobbies: swimming, cycling
+- 👨‍🍳 Fun fact: My plan B is to become a chef.
+- 📫 How to reach me: pknszky@protonmail.com
