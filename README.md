@@ -1,13 +1,14 @@
 ### Hi! 👋
 
-My name is Péter and I'm currently working at [Accenture](https://www.accenture.com/hu-en) as a full-stack developer, mainly on retail logistics software — using AI tooling to accelerate full-cycle delivery.
+My name is Péter and I'm currently working at [Accenture](https://www.accenture.com/) as a full-stack developer, mainly on retail logistics software — using AI tooling to accelerate full-cycle delivery.
 
-- 🌐 Portfolio & CV: [pukanszkypeter.github.io](https://pukanszkypeter.github.io)
-- 💬 Ask me about Spring Boot, React, or Kubernetes
-- 📫 peter.pukanszky@outlook.com
+- 📫 [Email Me](mailto:peter.pukanszky@outlook.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pukanszkypeter/)
+- 🌐 [Portfolio](https://pukanszkypeter.github.io)
 
 ### Tech I work with
 
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -18,9 +19,3 @@ My name is Péter and I'm currently working at [Accenture](https://www.accenture
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-
-### GitHub stats
-
-![Péter's GitHub stats](https://github-readme-stats.vercel.app/api?username=pukanszkypeter&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pukanszkypeter&layout=compact&hide_border=true)
